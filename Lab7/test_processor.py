@@ -1,0 +1,1 @@
+from test_movie_tickets import test_parse_seat_no_crash, test_total_price_no_crash, test_average_rating_no_crash
